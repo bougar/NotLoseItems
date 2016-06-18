@@ -9,3 +9,4 @@ description = 'Not lose items on death'
 dependencies {
     compile 'org.spongepowered:spongeapi:5.0.0-SNAPSHOT'
 }
+
