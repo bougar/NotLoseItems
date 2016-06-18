@@ -4,7 +4,7 @@ plugins {
 
 group = 'io.github.bougar' // TODO
 version = '1.0-SNAPSHOT'
-description = 'An example plugin'
+description = 'Not lose items on death'
 
 dependencies {
     compile 'org.spongepowered:spongeapi:5.0.0-SNAPSHOT'
